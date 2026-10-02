@@ -44,11 +44,13 @@ While the app is in testing, **try it first on a copy of a folder**, not on your
 
 ## Updates
 
-Click **Check for updates** (top right in the app). The app updates itself and restarts; your settings and history are kept.
+Click **Check for updates** (top right in the app). It tells you which new version is available and installs it only when you click **Install**, then restarts. Your settings and history are kept.
 
-## Feedback
+## Something went wrong? Feedback
 
-Tell the person who shared this app with you what worked, what was confusing and what went wrong. Screenshots help a lot, and so does the text in the Terminal window when something fails.
+In the app, click **Report a problem** (top right), then **Copy report**, and send it to the person who shared this app with you, with a short description and a screenshot if you can. The report does not contain your photos, and the names of your files and folders are hidden unless you choose to include them.
+
+Ideas and things that were confusing are just as welcome.
 
 ---
 
@@ -56,4 +58,5 @@ Tell the person who shared this app with you what worked, what was confusing and
 
 | Version | Download |
 |---|---|
-| 1.2.0 (current) | [Media-Organizer-1.2.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.2.0.zip) |
+| 1.3.0 (current) | [Media-Organizer-1.3.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.3.0.zip) |
+| 1.2.0 | [Media-Organizer-1.2.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.2.0.zip) |
