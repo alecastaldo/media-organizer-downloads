@@ -28,7 +28,11 @@ For Macs with macOS 11 or newer, Apple Silicon (M1/M2/M3/M4) or Intel. Free whil
 
 **If macOS offers to install the "Command Line Tools", click Install.** They are free from Apple and let the app run. Wait until they finish, then press **Enter** in the Terminal window.
 
-The app opens in your web browser. A **Terminal** window opens too: that is the app's engine. Keep it open while you use the app, and close it when you are done.
+The app opens in your web browser. A **Terminal** window appears for a moment while it starts and closes by itself; the app keeps running in the background.
+
+- **Bookmark the page:** its address stays the same.
+- Double-clicking `Media Organizer.command` again just opens the app if it is already running.
+- **To quit,** click **Quit** at the top right. The app also quits by itself some time after you close its page.
 
 **Permissions:**
 - When macOS asks *"Terminal would like to access files on a removable volume"*, click **Allow**.
@@ -58,5 +62,6 @@ Ideas and things that were confusing are just as welcome.
 
 | Version | Download |
 |---|---|
-| 1.3.0 (current) | [Media-Organizer-1.3.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.3.0.zip) |
+| 1.4.0 (current) | [Media-Organizer-1.4.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.4.0.zip) |
+| 1.3.0 | [Media-Organizer-1.3.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.3.0.zip) |
 | 1.2.0 | [Media-Organizer-1.2.0.zip](https://github.com/alecastaldo/media-organizer-downloads/raw/main/versions/Media-Organizer-1.2.0.zip) |
